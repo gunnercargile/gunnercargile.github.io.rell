@@ -111,9 +111,14 @@ section.intro {
 
 section.telegram {
   background:  #20C20E;
-	color:  black;
+  color:  black;
 text-align: center;
+  margin-left: auto;
+	margin-right: auto;
+  padding: 36px;
 }
+
+
 
 section.crypto {
   background-color: #2f2f2f;
